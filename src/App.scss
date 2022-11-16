@@ -1,0 +1,13 @@
+#root {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 2rem;
+  min-height: 70vh;
+  text-align: center;
+}
+
+.App {
+  display: grid;
+  gap: 10rem;
+  grid-template-columns: 400px 400px;
+}
